@@ -1,5 +1,5 @@
 
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Í¾Âúÿÿÿÿ8ìäº™¹.
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ô›Á¦ÿÿÿÿÿ8ìäº™¹.
 e
 java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß8Åµ‘™¹.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ô›Á¦ÿÿÿÿÿ8ìäº™¹.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Í¾Âúÿÿÿÿ8ìäº™¹.

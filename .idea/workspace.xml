@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e93ce869-db25-4520-bbd1-80efaa8da91f" name="Default Changelist" comment="" />
+    <list default="true" id="e93ce869-db25-4520-bbd1-80efaa8da91f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_53.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_6_0_201612231935_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-3344/microservicecloudconfig3344.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-3344/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-3344/src/main/java/com/htzw/springcloud/Config_3344_StartSpringCloudApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-3344/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/microservicecloudconfigclient3355.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/htzw/springcloud/ConfigClient_3355_StartSpringCloudApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/java/com/htzw/springcloud/rest/ConfigClientRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/079bc818b59ca45ea8b1ce68e2114a6e01af110b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/079bc818b59ca45ea8b1ce68e2114a6e01af110b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8906fbc140902178187d71d3bfbbcf956a604f8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8906fbc140902178187d71d3bfbbcf956a604f8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb2f605f9051df4bcc1eeece82c2a01b0119e257" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb2f605f9051df4bcc1eeece82c2a01b0119e257" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6304d7ec1dea13b44ead9452338142e495a565f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6304d7ec1dea13b44ead9452338142e495a565f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/htzw/springcloud/DeptConsumer80_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java/com/htzw/springcloud/DeptConsumer80_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -34,7 +61,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1fG7YwFEdbEA3p7U0HnNnil9YcU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -42,6 +73,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard/src/main/java" />
@@ -80,7 +112,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Zuul_9527_StartSpringCloudApp">
+  <component name="RunManager" selected="Spring Boot.ConfigClient_3355_StartSpringCloudApp">
+    <configuration name="ConfigClient_3355_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigclient3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htzw.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htzw.springcloud.ConfigClient_3355_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Config_3344_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfig3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htzw.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htzw.springcloud.Config_3344_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DeptConsumer80_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="microservicecloud-consumer-dept-80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.htzw.springcloud.DeptConsumer80_App" />
@@ -181,7 +239,15 @@
       <item itemvalue="Spring Boot.DeptProvider8001_Hystrix_App" />
       <item itemvalue="Spring Boot.DeptConsumer_DashBoard_App" />
       <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp" />
+      <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
+        <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -201,12 +267,27 @@
       <workItem from="1596069381253" duration="2578000" />
       <workItem from="1596174829280" duration="1788000" />
       <workItem from="1596446287717" duration="37000" />
-      <workItem from="1596500912854" duration="610000" />
+      <workItem from="1596500912854" duration="5585000" />
+      <workItem from="1596587430470" duration="3765000" />
+      <workItem from="1596674393711" duration="6587000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
