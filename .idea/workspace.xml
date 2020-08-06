@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e93ce869-db25-4520-bbd1-80efaa8da91f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/META-INF/microservicecloudconfigdeptclient8001.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/com/htzw/springcloud/DeptProvider_Config_8001_App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/DeptProvider8001_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/DeptProvider_Config_8001_App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/com/htzw/springcloud/DeptProvider8001_App.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,7 +281,7 @@
       <workItem from="1596446287717" duration="37000" />
       <workItem from="1596500912854" duration="5585000" />
       <workItem from="1596587430470" duration="3765000" />
-      <workItem from="1596674393711" duration="10786000" />
+      <workItem from="1596674393711" duration="11051000" />
     </task>
     <servers />
   </component>
