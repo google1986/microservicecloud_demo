@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e93ce869-db25-4520-bbd1-80efaa8da91f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/microservicecloudconfigdeptclient8001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/DeptProvider8001_App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/microservicecloudconfigeurekaclient7001.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/java/com/htzw/springcloud/Config_Git_EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/DeptProvider8001_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/com/htzw/springcloud/DeptProvider_Config_8001_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Zuul_9527_StartSpringCloudApp">
+  <component name="RunManager">
     <configuration name="ConfigClient_3355_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="microservicecloudconfigclient3355" />
       <extension name="coverage">
@@ -172,19 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeptProvider8001_App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservicecloudconfigdeptclient8001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.htzw.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htzw.springcloud.DeptProvider8001_App" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DeptProvider8001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="microservicecloud-provider-dept-8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.htzw.springcloud.DeptProvider8001_App" />
@@ -213,6 +182,19 @@
       <module name="microservicecloud-provider-dept-8003" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.htzw.springcloud.DeptProvider8003_App" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider_Config_8001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservicecloudconfigdeptclient8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htzw.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htzw.springcloud.DeptProvider_Config_8001_App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -264,11 +246,11 @@
       <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp" />
       <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
       <item itemvalue="Spring Boot.Config_Git_EurekaServerApplication" />
-      <item itemvalue="Spring Boot.DeptProvider8001_App (1)" />
+      <item itemvalue="Spring Boot.DeptProvider_Config_8001_App" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.DeptProvider8001_App (1)" />
+        <item itemvalue="Spring Boot.DeptProvider_Config_8001_App" />
         <item itemvalue="Spring Boot.Config_Git_EurekaServerApplication" />
         <item itemvalue="Spring Boot.Config_3344_StartSpringCloudApp" />
         <item itemvalue="Spring Boot.ConfigClient_3355_StartSpringCloudApp" />
@@ -295,7 +277,7 @@
       <workItem from="1596446287717" duration="37000" />
       <workItem from="1596500912854" duration="5585000" />
       <workItem from="1596587430470" duration="3765000" />
-      <workItem from="1596674393711" duration="9642000" />
+      <workItem from="1596674393711" duration="10786000" />
     </task>
     <servers />
   </component>
